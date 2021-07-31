@@ -36,6 +36,8 @@
 | :---------: | :---: | :-----------------------------------: | :------: |
 |  숫자야구   | 실버5 | https://www.acmicpc.net/problem/2503  | 21.07.17 |
 | 부당한 퍼즐 | 실버3 | https://www.acmicpc.net/problem/15501 | 21.07.24 |
+|   주유소    | 실버4 | https://www.acmicpc.net/problem/13305 | 21.07.31 |
+|  카드 놓기  | 실버3 | https://www.acmicpc.net/problem/18115 | 21.07.31 |
 
 ------
 </details>
@@ -47,6 +49,7 @@
 | :------: | :---: | :---------------------------------: | :------: |
 | 주식가격 | 2 | https://programmers.co.kr/learn/courses/30/lessons/42584 | 21.07.17 |
 | 문자열 내 마음대로 정렬하기 |  1   | https://programmers.co.kr/learn/courses/30/lessons/12915 | 21.07.24 |
+| 구명보트 | 2 | https://programmers.co.kr/learn/courses/30/lessons/42885 | 21.07.31 |
 
 ------
 </details>
