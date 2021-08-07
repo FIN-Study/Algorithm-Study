@@ -32,12 +32,14 @@
 <details markdown="1">
 <summary><strong>📄 백준</summary></strong>
 
-|    문제     | 레벨  |                  URL                  |   날짜   |
-| :---------: | :---: | :-----------------------------------: | :------: |
-|  숫자야구   | 실버5 | https://www.acmicpc.net/problem/2503  | 21.07.17 |
-| 부당한 퍼즐 | 실버3 | https://www.acmicpc.net/problem/15501 | 21.07.24 |
-|   주유소    | 실버4 | https://www.acmicpc.net/problem/13305 | 21.07.31 |
-|  카드 놓기  | 실버3 | https://www.acmicpc.net/problem/18115 | 21.07.31 |
+|        문제        |  레벨   |                  URL                  |   날짜   |
+| :----------------: | :-----: | :-----------------------------------: | :------: |
+|      숫자야구      |  실버5  | https://www.acmicpc.net/problem/2503  | 21.07.17 |
+|    부당한 퍼즐     |  실버3  | https://www.acmicpc.net/problem/15501 | 21.07.24 |
+|       주유소       |  실버4  | https://www.acmicpc.net/problem/13305 | 21.07.31 |
+|     카드 놓기      |  실버3  | https://www.acmicpc.net/problem/18115 | 21.07.31 |
+| 게임을 만든 동준이 |  실버4  | https://www.acmicpc.net/problem/2847  | 21.08.07 |
+|   더하기 사이클    | 브론즈1 | https://www.acmicpc.net/problem/1110  | 21.08.07 |
 
 ------
 </details>
@@ -50,6 +52,7 @@
 | 주식가격 | 2 | https://programmers.co.kr/learn/courses/30/lessons/42584 | 21.07.17 |
 | 문자열 내 마음대로 정렬하기 |  1   | https://programmers.co.kr/learn/courses/30/lessons/12915 | 21.07.24 |
 | 구명보트 | 2 | https://programmers.co.kr/learn/courses/30/lessons/42885 | 21.07.31 |
+| 타겟 넘버 | 2 | https://programmers.co.kr/learn/courses/30/lessons/43165 | 21.08.07 |
 
 ------
 </details>
