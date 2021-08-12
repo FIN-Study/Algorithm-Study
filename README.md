@@ -32,14 +32,17 @@
 <details markdown="1">
 <summary><strong>📄 백준</summary></strong>
 
-|        문제        |  레벨   |                  URL                  |   날짜   |
-| :----------------: | :-----: | :-----------------------------------: | :------: |
-|      숫자야구      |  실버5  | https://www.acmicpc.net/problem/2503  | 21.07.17 |
-|    부당한 퍼즐     |  실버3  | https://www.acmicpc.net/problem/15501 | 21.07.24 |
-|       주유소       |  실버4  | https://www.acmicpc.net/problem/13305 | 21.07.31 |
-|     카드 놓기      |  실버3  | https://www.acmicpc.net/problem/18115 | 21.07.31 |
-| 게임을 만든 동준이 |  실버4  | https://www.acmicpc.net/problem/2847  | 21.08.07 |
-|   더하기 사이클    | 브론즈1 | https://www.acmicpc.net/problem/1110  | 21.08.07 |
+|          문제           |  레벨   |                  URL                  |   날짜   |
+| :---------------------: | :-----: | :-----------------------------------: | :------: |
+|        숫자야구         |  실버5  | https://www.acmicpc.net/problem/2503  | 21.07.17 |
+|       부당한 퍼즐       |  실버3  | https://www.acmicpc.net/problem/15501 | 21.07.24 |
+|         주유소          |  실버4  | https://www.acmicpc.net/problem/13305 | 21.07.31 |
+|        카드 놓기        |  실버3  | https://www.acmicpc.net/problem/18115 | 21.07.31 |
+|   게임을 만든 동준이    |  실버4  | https://www.acmicpc.net/problem/2847  | 21.08.07 |
+|      더하기 사이클      | 브론즈1 | https://www.acmicpc.net/problem/1110  | 21.08.07 |
+|          괄호           |  실버4  | https://www.acmicpc.net/problem/9012  | 21.08.12 |
+| 백설 공주와 일곱 난쟁이 | 브론즈2 | https://www.acmicpc.net/problem/3040  | 21.08.12 |
+|        문서 검색        |  실버4  | https://www.acmicpc.net/problem/1543  | 21.08.12 |
 
 ------
 </details>
